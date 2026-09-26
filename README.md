@@ -5,6 +5,6 @@ repository to keep it small. Served by GitHub Pages at https://tjhavranek.github
 
 - `zuzana-havrankova-projev-2025/`: video of Zuzana Havránková's speech on behalf of the newly
   appointed professors, Karolinum, 16 June 2025 (ČT24 recording).
-- `photos/`: photographs of Tomas Havranek (2022) and Zuzana Irsova (2024, 2025), shown on
+- `photos/`: photographs of Tomas Havranek (2022) and Zuzana Irsova (2024), shown on
   https://meta-analysis.cz/about/photos/. Each in two sizes: `-800` for the page, and 3,200 px on
   the long side to download. Camera and location metadata removed.
